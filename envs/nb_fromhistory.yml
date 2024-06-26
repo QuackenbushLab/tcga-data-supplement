@@ -1,0 +1,13 @@
+name: nb
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - python=3.10
+  - scipy
+  - seaborn
+  - ipykernel
+  - gseapy
+  - networkx
+prefix: /home/ubuntu/miniconda3/envs/nb

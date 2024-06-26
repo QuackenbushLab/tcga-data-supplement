@@ -1,0 +1,729 @@
+child,ancestor,parent_code,parent_name,parent_species,child_code,child_name,child_species
+R-HSA-109606,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-109606,Intrinsic Pathway for Apoptosis,Homo sapiens
+R-HSA-111458,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-111458,Formation of apoptosome,Homo sapiens
+R-HSA-111461,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-111461,Cytochrome c-mediated apoptotic response,Homo sapiens
+R-HSA-111465,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-111465,Apoptotic cleavage of cellular proteins,Homo sapiens
+R-HSA-111469,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-111469,"SMAC, XIAP-regulated apoptotic response",Homo sapiens
+R-HSA-111471,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-111471,Apoptotic factor-mediated response,Homo sapiens
+R-HSA-114452,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-114452,Activation of BH3-only proteins,Homo sapiens
+R-HSA-140534,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-140534,Caspase activation via Death Receptors in the presence of ligand,Homo sapiens
+R-HSA-169911,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-169911,Regulation of Apoptosis,Homo sapiens
+R-HSA-5218859,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-5218859,Regulated Necrosis,Homo sapiens
+R-HSA-5357769,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-5357769,Caspase activation via extrinsic apoptotic signalling pathway,Homo sapiens
+R-HSA-5675482,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-5675482,Regulation of necroptotic cell death,Homo sapiens
+R-HSA-75153,R-HSA-5357801,R-HSA-5357801,Programmed Cell Death,Homo sapiens,R-HSA-75153,Apoptotic execution phase,Homo sapiens
+R-HSA-109703,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-109703,PKB-mediated events,Homo sapiens
+R-HSA-109704,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-109704,PI3K Cascade,Homo sapiens
+R-HSA-111885,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-111885,Opioid Signalling,Homo sapiens
+R-HSA-111931,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-111931,PKA-mediated phosphorylation of CREB,Homo sapiens
+R-HSA-111933,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-111933,Calmodulin induced events,Homo sapiens
+R-HSA-111996,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-111996,Ca-dependent events,Homo sapiens
+R-HSA-112040,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-112040,G-protein mediated events,Homo sapiens
+R-HSA-112399,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-112399,IRS-mediated signalling,Homo sapiens
+R-HSA-112409,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-112409,RAF-independent MAPK1/3 activation,Homo sapiens
+R-HSA-114508,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-114508,Effects of PIP2 hydrolysis,Homo sapiens
+R-HSA-114508,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-114508,Effects of PIP2 hydrolysis,Homo sapiens
+R-HSA-1227986,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1227986,Signaling by ERBB2,Homo sapiens
+R-HSA-1236394,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1236394,Signaling by ERBB4,Homo sapiens
+R-HSA-1257604,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1257604,PIP3 activates AKT signaling,Homo sapiens
+R-HSA-1433557,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1433557,Signaling by SCF-KIT,Homo sapiens
+R-HSA-1502540,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1502540,Signaling by Activin,Homo sapiens
+R-HSA-165159,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-165159,MTOR signalling,Homo sapiens
+R-HSA-167044,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-167044,Signalling to RAS,Homo sapiens
+R-HSA-169893,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-169893,Prolonged ERK activation events,Homo sapiens
+R-HSA-170834,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-170834,Signaling by TGF-beta Receptor Complex,Homo sapiens
+R-HSA-177929,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-177929,Signaling by EGFR,Homo sapiens
+R-HSA-186797,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-186797,Signaling by PDGF,Homo sapiens
+R-HSA-187015,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-187015,Activation of TRKA receptors,Homo sapiens
+R-HSA-187037,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-187037,Signaling by NTRK1 (TRKA),Homo sapiens
+R-HSA-187687,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-187687,Signalling to ERKs,Homo sapiens
+R-HSA-190239,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-190239,FGFR3 ligand binding and activation,Homo sapiens
+R-HSA-190241,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-190241,FGFR2 ligand binding and activation,Homo sapiens
+R-HSA-190242,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-190242,FGFR1 ligand binding and activation,Homo sapiens
+R-HSA-190322,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-190322,FGFR4 ligand binding and activation,Homo sapiens
+R-HSA-1912422,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1912422,Pre-NOTCH Expression and Processing,Homo sapiens
+R-HSA-193639,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-193639,p75NTR signals via NF-kB,Homo sapiens
+R-HSA-193697,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-193697,p75NTR regulates axonogenesis,Homo sapiens
+R-HSA-193704,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-193704,p75 NTR receptor-mediated signalling,Homo sapiens
+R-HSA-194138,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-194138,Signaling by VEGF,Homo sapiens
+R-HSA-194313,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-194313,VEGF ligand-receptor interactions,Homo sapiens
+R-HSA-195253,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-195253,Degradation of beta-catenin by the destruction complex,Homo sapiens
+R-HSA-195258,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-195258,RHO GTPase Effectors,Homo sapiens
+R-HSA-195721,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-195721,Signaling by WNT,Homo sapiens
+R-HSA-1980143,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1980143,Signaling by NOTCH1,Homo sapiens
+R-HSA-1980145,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-1980145,Signaling by NOTCH2,Homo sapiens
+R-HSA-198725,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-198725,Nuclear Events (kinase and transcription factor activation),Homo sapiens
+R-HSA-198753,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-198753,ERK/MAPK targets,Homo sapiens
+R-HSA-198753,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-198753,ERK/MAPK targets,Homo sapiens
+R-HSA-199418,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-199418,Negative regulation of the PI3K/AKT network,Homo sapiens
+R-HSA-201556,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-201556,Signaling by ALK,Homo sapiens
+R-HSA-201681,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-201681,TCF dependent signaling in response to WNT,Homo sapiens
+R-HSA-201722,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex,Homo sapiens
+R-HSA-204998,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-204998,"Cell death signalling via NRAGE, NRIF and NADE",Homo sapiens
+R-HSA-2173789,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-2173789,TGF-beta receptor signaling activates SMADs,Homo sapiens
+R-HSA-2173793,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-2173793,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,Homo sapiens
+R-HSA-2173793,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-2173793,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,Homo sapiens
+R-HSA-2428924,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-2428924,IGF1R signaling cascade,Homo sapiens
+R-HSA-354192,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-354192,Integrin signaling,Homo sapiens
+R-HSA-354192,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-354192,Integrin signaling,Homo sapiens
+R-HSA-373076,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),Homo sapiens
+R-HSA-373080,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-373080,Class B/2 (Secretin family receptors),Homo sapiens
+R-HSA-375276,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-375276,Peptide ligand-binding receptors,Homo sapiens
+R-HSA-375280,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-375280,Amine ligand-binding receptors,Homo sapiens
+R-HSA-3858494,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-3858494,Beta-catenin independent WNT signaling,Homo sapiens
+R-HSA-388396,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-388396,GPCR downstream signalling,Homo sapiens
+R-HSA-391903,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-391903,Eicosanoid ligand-binding receptors,Homo sapiens
+R-HSA-397795,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-397795,G-protein beta:gamma signalling,Homo sapiens
+R-HSA-4086400,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-4086400,PCP/CE pathway,Homo sapiens
+R-HSA-418038,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-418038,Nucleotide-like (purinergic) receptors,Homo sapiens
+R-HSA-418555,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-418555,G alpha (s) signalling events,Homo sapiens
+R-HSA-4420097,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-4420097,VEGFA-VEGFR2 Pathway,Homo sapiens
+R-HSA-500792,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-500792,GPCR ligand binding,Homo sapiens
+R-HSA-5358346,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5358346,Hedgehog ligand biogenesis,Homo sapiens
+R-HSA-5362517,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5362517,Signaling by Retinoic Acid,Homo sapiens
+R-HSA-5610787,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5610787,Hedgehog 'off' state,Homo sapiens
+R-HSA-5625740,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5625740,RHO GTPases activate PKNs,Homo sapiens
+R-HSA-5632684,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5632684,Hedgehog 'on' state,Homo sapiens
+R-HSA-5654687,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654687,Downstream signaling of activated FGFR1,Homo sapiens
+R-HSA-5654696,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654696,Downstream signaling of activated FGFR2,Homo sapiens
+R-HSA-5654708,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654708,Downstream signaling of activated FGFR3,Homo sapiens
+R-HSA-5654716,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654716,Downstream signaling of activated FGFR4,Homo sapiens
+R-HSA-5654726,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654726,Negative regulation of FGFR1 signaling,Homo sapiens
+R-HSA-5654727,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654727,Negative regulation of FGFR2 signaling,Homo sapiens
+R-HSA-5654732,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654732,Negative regulation of FGFR3 signaling,Homo sapiens
+R-HSA-5654733,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654733,Negative regulation of FGFR4 signaling,Homo sapiens
+R-HSA-5654736,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654736,Signaling by FGFR1,Homo sapiens
+R-HSA-5654738,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5654738,Signaling by FGFR2,Homo sapiens
+R-HSA-5673001,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5673001,RAF/MAP kinase cascade,Homo sapiens
+R-HSA-5675221,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5675221,Negative regulation of MAPK pathway,Homo sapiens
+R-HSA-5683057,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-5683057,MAPK family signaling cascades,Homo sapiens
+R-HSA-6806834,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-6806834,Signaling by MET,Homo sapiens
+R-HSA-6807004,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-6807004,Negative regulation of MET activity,Homo sapiens
+R-HSA-6807070,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-6807070,PTEN Regulation,Homo sapiens
+R-HSA-73887,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-73887,Death Receptor Signaling,Homo sapiens
+R-HSA-74751,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-74751,Insulin receptor signalling cascade,Homo sapiens
+R-HSA-74752,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-74752,Signaling by Insulin receptor,Homo sapiens
+R-HSA-75893,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-75893,TNF signaling,Homo sapiens
+R-HSA-881907,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-881907,Gastrin-CREB signalling pathway via PKC and MAPK,Homo sapiens
+R-HSA-8848021,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-8848021,Signaling by PTK6,Homo sapiens
+R-HSA-8863795,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-8863795,Downregulation of ERBB2 signaling,Homo sapiens
+R-HSA-8875878,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-8875878,MET promotes cell motility,Homo sapiens
+R-HSA-8939211,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-8939211,ESR-mediated signaling,Homo sapiens
+R-HSA-8943723,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-8943723,Regulation of PTEN mRNA translation,Homo sapiens
+R-HSA-9006115,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9006115,Signaling by NTRK2 (TRKB),Homo sapiens
+R-HSA-9006335,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9006335,Signaling by Erythropoietin,Homo sapiens
+R-HSA-9006934,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,Homo sapiens
+R-HSA-9006936,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9006936,Signaling by TGFB family members,Homo sapiens
+R-HSA-9009391,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9009391,Extra-nuclear estrogen signaling,Homo sapiens
+R-HSA-9012852,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9012852,Signaling by NOTCH3,Homo sapiens
+R-HSA-9012999,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9012999,RHO GTPase cycle,Homo sapiens
+R-HSA-9013507,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9013507,NOTCH3 Activation and Transmission of Signal to the Nucleus,Homo sapiens
+R-HSA-9013694,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9013694,Signaling by NOTCH4,Homo sapiens
+R-HSA-9024446,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9024446,NR1H2 and NR1H3-mediated signaling,Homo sapiens
+R-HSA-9032500,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9032500,Activated NTRK2 signals through FYN,Homo sapiens
+R-HSA-9034015,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9034015,Signaling by NTRK3 (TRKC),Homo sapiens
+R-HSA-9036866,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9036866,Expression and Processing of Neurotrophins,Homo sapiens
+R-HSA-9706574,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9706574,RHOBTB GTPase Cycle,Homo sapiens
+R-HSA-9715370,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9715370,Miro GTPase Cycle,Homo sapiens
+R-HSA-9716542,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",Homo sapiens
+R-HSA-2028269,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-2028269,Signaling by Hippo,Homo sapiens
+R-HSA-2586552,R-HSA-162582,R-HSA-162582,Signal Transduction,Homo sapiens,R-HSA-2586552,Signaling by Leptin,Homo sapiens
+R-HSA-110313,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-110313,Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,Homo sapiens
+R-HSA-110373,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-110373,Resolution of AP sites via the multiple-nucleotide patch replacement pathway,Homo sapiens
+R-HSA-110381,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-110381,Resolution of AP sites via the single-nucleotide replacement pathway,Homo sapiens
+R-HSA-5358508,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5358508,Mismatch Repair,Homo sapiens
+R-HSA-5693532,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5693532,DNA Double-Strand Break Repair,Homo sapiens
+R-HSA-5693537,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5693537,Resolution of D-Loop Structures,Homo sapiens
+R-HSA-5693538,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5693538,Homology Directed Repair,Homo sapiens
+R-HSA-5693567,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5693567,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),Homo sapiens
+R-HSA-5693579,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5693579,Homologous DNA Pairing and Strand Exchange,Homo sapiens
+R-HSA-5693606,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5693606,DNA Double Strand Break Response,Homo sapiens
+R-HSA-5696399,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-5696399,Global Genome Nucleotide Excision Repair (GG-NER),Homo sapiens
+R-HSA-6781827,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-6781827,Transcription-Coupled Nucleotide Excision Repair (TC-NER),Homo sapiens
+R-HSA-6783310,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-6783310,Fanconi Anemia Pathway,Homo sapiens
+R-HSA-73893,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-73893,DNA Damage Bypass,Homo sapiens
+R-HSA-73927,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-73927,Depurination,Homo sapiens
+R-HSA-73928,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-73928,Depyrimidination,Homo sapiens
+R-HSA-73929,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-73929,"Base-Excision Repair, AP Site Formation",Homo sapiens
+R-HSA-73933,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-73933,Resolution of Abasic Sites (AP sites),Homo sapiens
+R-HSA-73942,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-73942,DNA Damage Reversal,Homo sapiens
+R-HSA-73943,R-HSA-73894,R-HSA-73894,DNA Repair,Homo sapiens,R-HSA-73943,Reversal of alkylation damage by DNA dioxygenases,Homo sapiens
+R-HSA-112307,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-112307,Transmission across Electrical Synapses ,Homo sapiens
+R-HSA-112310,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-112310,Neurotransmitter release cycle,Homo sapiens
+R-HSA-112313,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-112313,Neurotransmitter uptake and metabolism In glial cells,Homo sapiens
+R-HSA-112315,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-112315,Transmission across Chemical Synapses,Homo sapiens
+R-HSA-1296059,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-1296059,G protein gated Potassium channels,Homo sapiens
+R-HSA-1296065,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-1296065,Inwardly rectifying K+ channels,Homo sapiens
+R-HSA-1296071,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-1296071,Potassium Channels,Homo sapiens
+R-HSA-1296346,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-1296346,Tandem pore domain potassium channels,Homo sapiens
+R-HSA-379401,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-379401,Dopamine clearance from the synaptic cleft,Homo sapiens
+R-HSA-380615,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-380615,Serotonin clearance from the synaptic cleft,Homo sapiens
+R-HSA-399719,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-399719,Trafficking of AMPA receptors,Homo sapiens
+R-HSA-399721,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-399721,"Glutamate binding, activation of AMPA receptors and synaptic plasticity",Homo sapiens
+R-HSA-438064,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-438064,Post NMDA receptor activation events,Homo sapiens
+R-HSA-442742,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,Homo sapiens
+R-HSA-442755,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-442755,Activation of NMDA receptors and postsynaptic events,Homo sapiens
+R-HSA-451306,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-451306,Ionotropic activity of kainate receptors,Homo sapiens
+R-HSA-451326,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-451326,Activation of kainate receptors upon glutamate binding,Homo sapiens
+R-HSA-622323,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-622323,Presynaptic nicotinic acetylcholine receptors,Homo sapiens
+R-HSA-622327,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-622327,Postsynaptic nicotinic acetylcholine receptors,Homo sapiens
+R-HSA-6794362,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-6794362,Protein-protein interactions at synapses,Homo sapiens
+R-HSA-888590,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-888590,"GABA synthesis, release, reuptake and degradation",Homo sapiens
+R-HSA-991365,R-HSA-112316,R-HSA-112316,Neuronal System,Homo sapiens,R-HSA-991365,Activation of GABAB receptors,Homo sapiens
+R-HSA-113510,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-113510,E2F mediated regulation of DNA replication,Homo sapiens
+R-HSA-141405,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-141405,Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,Homo sapiens
+R-HSA-141424,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-141424,Amplification of signal from the kinetochores,Homo sapiens
+R-HSA-1500620,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-1500620,Meiosis,Homo sapiens
+R-HSA-1500620,R-HSA-1474165,R-HSA-1474165,Reproduction,Homo sapiens,R-HSA-1500620,Meiosis,Homo sapiens
+R-HSA-1538133,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-1538133,G0 and Early G1,Homo sapiens
+R-HSA-157579,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-157579,Telomere Maintenance,Homo sapiens
+R-HSA-174143,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-174143,APC/C-mediated degradation of cell cycle proteins,Homo sapiens
+R-HSA-174414,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-174414,Processive synthesis on the C-strand of the telomere,Homo sapiens
+R-HSA-174417,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-174417,Telomere C-strand (Lagging Strand) Synthesis,Homo sapiens
+R-HSA-176408,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-176408,Regulation of APC/C activators between G1/S and early anaphase,Homo sapiens
+R-HSA-176409,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-176409,APC/C:Cdc20 mediated degradation of mitotic proteins,Homo sapiens
+R-HSA-176814,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-176814,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,Homo sapiens
+R-HSA-179419,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-179419,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,Homo sapiens
+R-HSA-180786,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-180786,Extension of Telomeres,Homo sapiens
+R-HSA-2555396,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-2555396,Mitotic Metaphase and Anaphase,Homo sapiens
+R-HSA-2980766,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-2980766,Nuclear Envelope Breakdown,Homo sapiens
+R-HSA-2995410,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-2995410,Nuclear Envelope (NE) Reassembly,Homo sapiens
+R-HSA-380284,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome,Homo sapiens
+R-HSA-380287,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-380287,Centrosome maturation,Homo sapiens
+R-HSA-453274,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-453274,Mitotic G2-G2/M phases,Homo sapiens
+R-HSA-68875,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-68875,Mitotic Prophase,Homo sapiens
+R-HSA-68877,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-68877,Mitotic Prometaphase,Homo sapiens
+R-HSA-68882,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-68882,Mitotic Anaphase,Homo sapiens
+R-HSA-68884,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-68884,Mitotic Telophase/Cytokinesis,Homo sapiens
+R-HSA-69052,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69052,Switching of origins to a post-replicative state,Homo sapiens
+R-HSA-69052,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-69052,Switching of origins to a post-replicative state,Homo sapiens
+R-HSA-69109,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69109,Leading Strand Synthesis,Homo sapiens
+R-HSA-69109,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-69109,Leading Strand Synthesis,Homo sapiens
+R-HSA-69183,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69183,Processive synthesis on the lagging strand,Homo sapiens
+R-HSA-69183,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-69183,Processive synthesis on the lagging strand,Homo sapiens
+R-HSA-69186,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69186,Lagging Strand Synthesis,Homo sapiens
+R-HSA-69186,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-69186,Lagging Strand Synthesis,Homo sapiens
+R-HSA-69190,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69190,DNA strand elongation,Homo sapiens
+R-HSA-69190,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-69190,DNA strand elongation,Homo sapiens
+R-HSA-69202,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69202,Cyclin E associated events during G1/S transition ,Homo sapiens
+R-HSA-69206,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69206,G1/S Transition,Homo sapiens
+R-HSA-69231,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69231,Cyclin D associated events in G1,Homo sapiens
+R-HSA-69239,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69239,Synthesis of DNA,Homo sapiens
+R-HSA-69239,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-69239,Synthesis of DNA,Homo sapiens
+R-HSA-69242,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69242,S Phase,Homo sapiens
+R-HSA-69273,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69273,Cyclin A/B1/B2 associated events during G2/M transition,Homo sapiens
+R-HSA-69275,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69275,G2/M Transition,Homo sapiens
+R-HSA-69473,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69473,G2/M DNA damage checkpoint,Homo sapiens
+R-HSA-69481,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69481,G2/M Checkpoints,Homo sapiens
+R-HSA-69541,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69541,Stabilization of p53,Homo sapiens
+R-HSA-69560,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69560,Transcriptional activation of p53 responsive genes  ,Homo sapiens
+R-HSA-69610,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69610,p53-Independent DNA Damage Response,Homo sapiens
+R-HSA-69656,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-69656,Cyclin A:Cdk2-associated events at S phase entry,Homo sapiens
+R-HSA-774815,R-HSA-1640170,R-HSA-1640170,Cell Cycle,Homo sapiens,R-HSA-774815,Nucleosome assembly,Homo sapiens
+R-HSA-140877,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade),Homo sapiens
+R-HSA-202733,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-202733,Cell surface interactions at the vascular wall,Homo sapiens
+R-HSA-392154,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-392154,Nitric oxide stimulates guanylate cyclase,Homo sapiens
+R-HSA-392518,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-392518,Signal amplification,Homo sapiens
+R-HSA-418346,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-418346,Platelet homeostasis,Homo sapiens
+R-HSA-418360,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-418360,Platelet calcium homeostasis,Homo sapiens
+R-HSA-76002,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-76002,"Platelet activation, signaling and aggregation",Homo sapiens
+R-HSA-76005,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,Homo sapiens
+R-HSA-76009,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-76009,Platelet Aggregation (Plug Formation),Homo sapiens
+R-HSA-983231,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-983231,Factors involved in megakaryocyte development and platelet production,Homo sapiens
+R-HSA-75205,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-75205,Dissolution of Fibrin Clot,Homo sapiens
+R-HSA-75892,R-HSA-109582,R-HSA-109582,Hemostasis,Homo sapiens,R-HSA-75892,Platelet Adhesion to exposed collagen,Homo sapiens
+R-HSA-1168372,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1168372,Downstream signaling events of B Cell Receptor (BCR),Homo sapiens
+R-HSA-1169410,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1169410,Antiviral mechanism by IFN-stimulated genes,Homo sapiens
+R-HSA-1222556,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1222556,ROS and RNS production in phagocytes,Homo sapiens
+R-HSA-1236975,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1236975,Antigen processing-Cross presentation,Homo sapiens
+R-HSA-1280215,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1280215,Cytokine Signaling in Immune system,Homo sapiens
+R-HSA-1280218,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1280218,Adaptive Immune System,Homo sapiens
+R-HSA-1461973,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1461973,Defensins,Homo sapiens
+R-HSA-1606322,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1606322,ZBP1(DAI) mediated induction of type I IFNs,Homo sapiens
+R-HSA-166016,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-166016,Toll Like Receptor 4 (TLR4) Cascade,Homo sapiens
+R-HSA-166058,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,Homo sapiens
+R-HSA-166658,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-166658,Complement cascade,Homo sapiens
+R-HSA-166662,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-166662,Lectin pathway of complement activation,Homo sapiens
+R-HSA-166663,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-166663,Initial triggering of complement,Homo sapiens
+R-HSA-166786,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-166786,Creation of C4 and C2 activators,Homo sapiens
+R-HSA-168164,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-168164,Toll Like Receptor 3 (TLR3) Cascade,Homo sapiens
+R-HSA-168249,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-168249,Innate Immune System,Homo sapiens
+R-HSA-168643,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-168643,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",Homo sapiens
+R-HSA-168898,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-168898,Toll-like Receptor Cascades,Homo sapiens
+R-HSA-168928,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-168928,DDX58/IFIH1-mediated induction of interferon-alpha/beta,Homo sapiens
+R-HSA-1834941,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1834941,STING mediated induction of host immune responses,Homo sapiens
+R-HSA-1834949,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-1834949,Cytosolic sensors of pathogen-associated DNA ,Homo sapiens
+R-HSA-202403,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-202403,TCR signaling,Homo sapiens
+R-HSA-2029480,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,Homo sapiens
+R-HSA-2172127,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-2172127,DAP12 interactions,Homo sapiens
+R-HSA-2454202,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,Homo sapiens
+R-HSA-3134975,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-3134975,Regulation of innate immune responses to cytosolic DNA,Homo sapiens
+R-HSA-388841,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-388841,Costimulation by the CD28 family,Homo sapiens
+R-HSA-389356,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-389356,CD28 co-stimulation,Homo sapiens
+R-HSA-445989,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-445989,TAK1-dependent IKK and NF-kappa-B activation  ,Homo sapiens
+R-HSA-446652,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-446652,Interleukin-1 family signaling,Homo sapiens
+R-HSA-447115,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-447115,Interleukin-12 family signaling,Homo sapiens
+R-HSA-449147,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-449147,Signaling by Interleukins,Homo sapiens
+R-HSA-450282,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-450282,MAPK targets/ Nuclear events mediated by MAP kinases,Homo sapiens
+R-HSA-450294,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-450294,MAP kinase activation,Homo sapiens
+R-HSA-451927,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-451927,Interleukin-2 family signaling,Homo sapiens
+R-HSA-512988,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-512988,"Interleukin-3, Interleukin-5 and GM-CSF signaling",Homo sapiens
+R-HSA-5607764,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-5607764,CLEC7A (Dectin-1) signaling,Homo sapiens
+R-HSA-5621481,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-5621481,C-type lectin receptors (CLRs),Homo sapiens
+R-HSA-5668541,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-5668541,TNFR2 non-canonical NF-kB pathway,Homo sapiens
+R-HSA-622312,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-622312,Inflammasomes,Homo sapiens
+R-HSA-6783589,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-6783589,Interleukin-6 family signaling,Homo sapiens
+R-HSA-6803157,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-6803157,Antimicrobial peptides,Homo sapiens
+R-HSA-877300,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-877300,Interferon gamma signaling,Homo sapiens
+R-HSA-9013973,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-9013973,TICAM1-dependent activation of IRF3/IRF7,Homo sapiens
+R-HSA-9020591,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-9020591,Interleukin-12 signaling,Homo sapiens
+R-HSA-9020702,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-9020702,Interleukin-1 signaling,Homo sapiens
+R-HSA-909733,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-909733,Interferon alpha/beta signaling,Homo sapiens
+R-HSA-936964,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-936964,"Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)",Homo sapiens
+R-HSA-937061,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-937061,TRIF (TICAM1)-mediated TLR4 signaling ,Homo sapiens
+R-HSA-9607240,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-9607240,FLT3 Signaling,Homo sapiens
+R-HSA-9674555,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-9674555,Signaling by CSF3 (G-CSF),Homo sapiens
+R-HSA-975138,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,Homo sapiens
+R-HSA-975155,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-975155,MyD88 dependent cascade initiated on endosome,Homo sapiens
+R-HSA-975871,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-975871,MyD88 cascade initiated on plasma membrane,Homo sapiens
+R-HSA-983169,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-983169,Class I MHC mediated antigen processing & presentation,Homo sapiens
+R-HSA-983705,R-HSA-168256,R-HSA-168256,Immune System,Homo sapiens,R-HSA-983705,Signaling by the B Cell Receptor (BCR),Homo sapiens
+R-HSA-1181150,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-1181150,Signaling by NODAL,Homo sapiens
+R-HSA-186712,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-186712,Regulation of beta-cell development,Homo sapiens
+R-HSA-210745,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-210745,Regulation of gene expression in beta cells,Homo sapiens
+R-HSA-2682334,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-2682334,EPH-Ephrin signaling,Homo sapiens
+R-HSA-373752,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-373752,Netrin-1 signaling,Homo sapiens
+R-HSA-373755,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-373755,Semaphorin interactions,Homo sapiens
+R-HSA-373760,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-373760,L1CAM interactions,Homo sapiens
+R-HSA-375165,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-375165,NCAM signaling for neurite out-growth,Homo sapiens
+R-HSA-376176,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-376176,Signaling by ROBO receptors,Homo sapiens
+R-HSA-400685,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-400685,Sema4D in semaphorin signaling,Homo sapiens
+R-HSA-422475,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-422475,Axon guidance,Homo sapiens
+R-HSA-452723,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-452723,Transcriptional regulation of pluripotent stem cells,Homo sapiens
+R-HSA-5619507,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-5619507,Activation of HOX genes during differentiation,Homo sapiens
+R-HSA-6805567,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-6805567,Keratinization,Homo sapiens
+R-HSA-9675108,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9675108,Nervous system development,Homo sapiens
+R-HSA-9730414,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9730414,MITF-M-regulated melanocyte development,Homo sapiens
+R-HSA-9734767,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9734767,Developmental Cell Lineages,Homo sapiens
+R-HSA-9758941,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9758941,Gastrulation,Homo sapiens
+R-HSA-9793380,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9793380,Formation of paraxial mesoderm,Homo sapiens
+R-HSA-9816359,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9816359,Maternal to zygotic transition (MZT),Homo sapiens
+R-HSA-9830369,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9830369,Kidney development,Homo sapiens
+R-HSA-9843743,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9843743,Transcriptional regulation of brown and beige adipocyte differentiation,Homo sapiens
+R-HSA-9843745,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9843745,Adipogenesis,Homo sapiens
+R-HSA-9856651,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9856651,MITF-M-dependent gene expression,Homo sapiens
+R-HSA-525793,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-525793,Myogenesis,Homo sapiens
+R-HSA-5682910,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-5682910,LGI-ADAM interactions,Homo sapiens
+R-HSA-9616222,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9616222,Transcriptional regulation of granulopoiesis,Homo sapiens
+R-HSA-9690406,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9690406,Transcriptional regulation of testis differentiation,Homo sapiens
+R-HSA-9733709,R-HSA-1266738,R-HSA-1266738,Developmental Biology,Homo sapiens,R-HSA-9733709,Cardiogenesis,Homo sapiens
+R-HSA-1187000,R-HSA-1474165,R-HSA-1474165,Reproduction,Homo sapiens,R-HSA-1187000,Fertilization,Homo sapiens
+R-HSA-9827857,R-HSA-1474165,R-HSA-1474165,Reproduction,Homo sapiens,R-HSA-9827857,Specification of primordial germ cells,Homo sapiens
+R-HSA-1222499,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-1222499,Latent infection - Other responses of Mtb to phagocytosis,Homo sapiens
+R-HSA-1227990,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-1227990,Signaling by ERBB2 in Cancer,Homo sapiens
+R-HSA-162589,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-162589,Reverse Transcription of HIV RNA,Homo sapiens
+R-HSA-162592,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-162592,Integration of provirus,Homo sapiens
+R-HSA-162594,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-162594,Early Phase of HIV Life Cycle,Homo sapiens
+R-HSA-162599,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-162599,Late Phase of HIV Life Cycle,Homo sapiens
+R-HSA-162909,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-162909,Host Interactions of HIV factors,Homo sapiens
+R-HSA-164938,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-164938,Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,Homo sapiens
+R-HSA-164952,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-164952,The role of Nef in HIV-1 replication and disease pathogenesis,Homo sapiens
+R-HSA-167169,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-167169,HIV Transcription Elongation,Homo sapiens
+R-HSA-167172,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-167172,Transcription of the HIV genome,Homo sapiens
+R-HSA-167246,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-167246,Tat-mediated elongation of the HIV-1 transcript,Homo sapiens
+R-HSA-168255,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168255,Influenza Infection,Homo sapiens
+R-HSA-168268,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168268,Virus Assembly and Release,Homo sapiens
+R-HSA-168270,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168270,Fusion and Uncoating of the Influenza Virion,Homo sapiens
+R-HSA-168273,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168273,Influenza Viral RNA Transcription and Replication,Homo sapiens
+R-HSA-168274,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168274,Export of Viral Ribonucleoproteins from Nucleus,Homo sapiens
+R-HSA-168276,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168276,NS1 Mediated Effects on Host Pathways,Homo sapiens
+R-HSA-168305,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168305,Inhibition of Interferon Synthesis,Homo sapiens
+R-HSA-168316,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168316,Assembly of Viral Components at the Budding Site,Homo sapiens
+R-HSA-168799,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-168799,Neurotoxicity of clostridium toxins,Homo sapiens
+R-HSA-174495,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-174495,"Synthesis And Processing Of GAG, GAGPOL Polyproteins",Homo sapiens
+R-HSA-175474,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-175474,Assembly Of The HIV Virion,Homo sapiens
+R-HSA-176033,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-176033,Interactions of Vpr with host cellular proteins,Homo sapiens
+R-HSA-177243,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-177243,Interactions of Rev with host cellular proteins,Homo sapiens
+R-HSA-1839124,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-1839124,FGFR1 mutant receptor activation,Homo sapiens
+R-HSA-1839126,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-1839126,FGFR2 mutant receptor activation,Homo sapiens
+R-HSA-2033514,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2033514,FGFR3 mutant receptor activation,Homo sapiens
+R-HSA-2206281,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2206281,Mucopolysaccharidoses,Homo sapiens
+R-HSA-2219528,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2219528,PI3K/AKT Signaling in Cancer,Homo sapiens
+R-HSA-2453864,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2453864,Retinoid cycle disease events,Homo sapiens
+R-HSA-2474795,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2474795,Diseases associated with visual transduction,Homo sapiens
+R-HSA-2644602,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2644602,Signaling by NOTCH1 PEST Domain Mutants in Cancer,Homo sapiens
+R-HSA-2644605,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2644605,FBXW7 Mutants and NOTCH1 in Cancer,Homo sapiens
+R-HSA-2660825,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2660825,Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,Homo sapiens
+R-HSA-2691230,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2691230,Signaling by NOTCH1 HD Domain Mutants in Cancer,Homo sapiens
+R-HSA-2894858,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-2894858,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,Homo sapiens
+R-HSA-3229121,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3229121,Glycogen storage diseases,Homo sapiens
+R-HSA-3296469,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3296469,Defects in cobalamin (B12) metabolism,Homo sapiens
+R-HSA-3304347,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3304347,Loss of Function of SMAD4 in Cancer,Homo sapiens
+R-HSA-3304349,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3304349,Loss of Function of SMAD2/3 in Cancer,Homo sapiens
+R-HSA-3323169,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3323169,Defects in biotin (Btn) metabolism,Homo sapiens
+R-HSA-3560782,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3560782,Diseases associated with glycosaminoglycan metabolism,Homo sapiens
+R-HSA-3642278,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3642278,Loss of Function of TGFBR2 in Cancer,Homo sapiens
+R-HSA-3656534,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3656534,Loss of Function of TGFBR1 in Cancer,Homo sapiens
+R-HSA-3781860,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3781860,Diseases associated with N-glycosylation of proteins,Homo sapiens
+R-HSA-3906995,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,Homo sapiens
+R-HSA-4791275,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-4791275,Signaling by WNT in cancer,Homo sapiens
+R-HSA-4839735,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-4839735,Signaling by AXIN mutants,Homo sapiens
+R-HSA-4839743,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-4839743,Signaling by CTNNB1 phospho-site mutants,Homo sapiens
+R-HSA-4839744,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-4839744,Signaling by APC mutants,Homo sapiens
+R-HSA-4839748,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-4839748,Signaling by AMER1 mutants,Homo sapiens
+R-HSA-5339562,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5339562,Uptake and actions of bacterial toxins,Homo sapiens
+R-HSA-5387390,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5387390,Hh mutants abrogate ligand secretion,Homo sapiens
+R-HSA-5423599,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5423599,Diseases of Mismatch Repair (MMR),Homo sapiens
+R-HSA-5579029,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5579029,Metabolic disorders of biological oxidation enzymes,Homo sapiens
+R-HSA-5602358,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5602358,Diseases associated with the TLR signaling cascade,Homo sapiens
+R-HSA-5609975,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5609975,Diseases associated with glycosylation precursor biosynthesis,Homo sapiens
+R-HSA-5619084,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5619084,ABC transporter disorders,Homo sapiens
+R-HSA-5619102,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5619102,SLC transporter disorders,Homo sapiens
+R-HSA-5637812,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5637812,Signaling by EGFRvIII in Cancer,Homo sapiens
+R-HSA-5637815,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5637815,Signaling by Ligand-Responsive EGFR Variants in Cancer,Homo sapiens
+R-HSA-5638302,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5638302,Signaling by Overexpressed Wild-Type EGFR in Cancer,Homo sapiens
+R-HSA-5655291,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5655291,Signaling by FGFR4 in disease,Homo sapiens
+R-HSA-5663084,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5663084,Diseases of carbohydrate metabolism,Homo sapiens
+R-HSA-5663202,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,Homo sapiens
+R-HSA-5668914,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5668914,Diseases of metabolism,Homo sapiens
+R-HSA-5687613,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-5687613,Diseases associated with surfactant metabolism,Homo sapiens
+R-HSA-6791465,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-6791465,Pentose phosphate pathway disease,Homo sapiens
+R-HSA-6802949,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-6802949,Signaling by RAS mutants,Homo sapiens
+R-HSA-6802957,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-6802957,Oncogenic MAPK signaling,Homo sapiens
+R-HSA-8863678,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-8863678,Neurodegenerative Diseases,Homo sapiens
+R-HSA-8876384,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-8876384,Listeria monocytogenes entry into host cells,Homo sapiens
+R-HSA-9005891,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9005891,Loss of function of MECP2 in Rett syndrome,Homo sapiens
+R-HSA-9605308,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9605308,Diseases of Base Excision Repair,Homo sapiens
+R-HSA-9605310,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9605310,Defective Base Excision Repair Associated with MUTYH,Homo sapiens
+R-HSA-9609646,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9609646,HCMV Infection,Homo sapiens
+R-HSA-9616333,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9616333,Defective Base Excision Repair Associated with NTHL1,Homo sapiens
+R-HSA-9630747,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9630747,Diseases of Cellular Senescence,Homo sapiens
+R-HSA-9630750,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9630750,Evasion of Oncogene Induced Senescence Due to p16INK4A Defects,Homo sapiens
+R-HSA-9632693,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9632693,Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects,Homo sapiens
+R-HSA-9635486,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9635486,Infection with Mycobacterium tuberculosis,Homo sapiens
+R-HSA-9637679,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9637679,Escape of Mtb from the phagocyte,Homo sapiens
+R-HSA-9637687,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9637687,Suppression of phagosomal maturation,Homo sapiens
+R-HSA-9637690,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9637690,Response of Mtb to phagocytosis,Homo sapiens
+R-HSA-9645723,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9645723,Diseases of programmed cell death,Homo sapiens
+R-HSA-9649913,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9649913,RAS GTPase cycle mutants,Homo sapiens
+R-HSA-9651496,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9651496,Defects of contact activation system (CAS) and kallikrein/kinin system (KKS),Homo sapiens
+R-HSA-9656249,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9656249,Defective Base Excision Repair Associated with OGG1,Homo sapiens
+R-HSA-9659787,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9659787,Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,Homo sapiens
+R-HSA-9660537,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9660537,Signaling by MRAS-complex mutants,Homo sapiens
+R-HSA-9662001,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9662001,Defective factor VIII causes hemophilia A,Homo sapiens
+R-HSA-9662851,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,Homo sapiens
+R-HSA-9664417,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9664417,Leishmania phagocytosis,Homo sapiens
+R-HSA-9664420,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9664420,Killing mechanisms,Homo sapiens
+R-HSA-9664424,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9664424,Cell recruitment (pro-inflammatory response),Homo sapiens
+R-HSA-9665230,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9665230,Drug resistance in ERBB2 KD mutants,Homo sapiens
+R-HSA-9668250,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9668250,Defective factor IX causes hemophilia B,Homo sapiens
+R-HSA-9669937,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9669937,Drug resistance of KIT mutants,Homo sapiens
+R-HSA-9669938,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9669938,Signaling by KIT in disease,Homo sapiens
+R-HSA-9670621,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9670621,Defective Inhibition of DNA Recombination at Telomere,Homo sapiens
+R-HSA-9671555,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9671555,Signaling by PDGFR in disease,Homo sapiens
+R-HSA-9674415,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9674415,Drug resistance of PDGFR mutants,Homo sapiens
+R-HSA-9675136,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9675136,Diseases of DNA Double-Strand Break Repair,Homo sapiens
+R-HSA-9678108,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9678108,SARS-CoV-1 Infection,Homo sapiens
+R-HSA-9679504,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9679504,Translation of Replicase and Assembly of the Replication Transcription Complex,Homo sapiens
+R-HSA-9679506,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9679506,SARS-CoV Infections,Homo sapiens
+R-HSA-9679514,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9679514,SARS-CoV-1 Genome Replication and Transcription,Homo sapiens
+R-HSA-9682385,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9682385,FLT3 signaling in disease,Homo sapiens
+R-HSA-9683701,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9683701,Translation of Structural Proteins,Homo sapiens
+R-HSA-9687139,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9687139,Aberrant regulation of mitotic cell cycle due to RB1 defects,Homo sapiens
+R-HSA-9692914,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9692914,SARS-CoV-1-host interactions,Homo sapiens
+R-HSA-9693928,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9693928,Defective RIPK1-mediated regulated necrosis,Homo sapiens
+R-HSA-9694635,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9694635,Translation of Structural Proteins,Homo sapiens
+R-HSA-9694676,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9694676,Translation of Replicase and Assembly of the Replication Transcription Complex,Homo sapiens
+R-HSA-9694682,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9694682,SARS-CoV-2 Genome Replication and Transcription,Homo sapiens
+R-HSA-9700206,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9700206,Signaling by ALK in cancer,Homo sapiens
+R-HSA-9700649,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9700649,Drug resistance of ALK mutants,Homo sapiens
+R-HSA-9701190,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9701190,Defective homologous recombination repair (HRR) due to BRCA2 loss of function,Homo sapiens
+R-HSA-9701193,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9701193,Defective homologous recombination repair (HRR) due to PALB2 loss of function,Homo sapiens
+R-HSA-9702506,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9702506,Drug resistance of FLT3 mutants,Homo sapiens
+R-HSA-9703648,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9703648,Signaling by FLT3 ITD and TKD mutants,Homo sapiens
+R-HSA-9705683,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9705683,SARS-CoV-2-host interactions,Homo sapiens
+R-HSA-9723907,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9723907,Loss of Function of TP53 in Cancer,Homo sapiens
+R-HSA-9725370,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9725370,Signaling by ALK fusions and activated point mutants,Homo sapiens
+R-HSA-9734009,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9734009,Defective Intrinsic Pathway for Apoptosis,Homo sapiens
+R-HSA-9734207,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9734207,Nucleotide salvage defects,Homo sapiens
+R-HSA-9735786,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9735786,Nucleotide catabolism defects,Homo sapiens
+R-HSA-9759785,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9759785,Diseases of propionyl-CoA catabolism,Homo sapiens
+R-HSA-9772572,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9772572,Early SARS-CoV-2 Infection Events,Homo sapiens
+R-HSA-9772573,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9772573,Late SARS-CoV-2 Infection Events,Homo sapiens
+R-HSA-9820952,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9820952,Respiratory Syncytial Virus Infection Pathway,Homo sapiens
+R-HSA-9820965,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9820965,"Respiratory syncytial virus (RSV) genome replication, transcription and translation",Homo sapiens
+R-HSA-9823587,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9823587,Defects of platelet adhesion to exposed collagen,Homo sapiens
+R-HSA-9833110,R-HSA-1643685,R-HSA-1643685,Disease,Homo sapiens,R-HSA-9833110,RSV-host interactions,Homo sapiens
+R-HSA-1234174,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-1234174,Cellular response to hypoxia,Homo sapiens
+R-HSA-2262752,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-2262752,Cellular responses to stress,Homo sapiens
+R-HSA-2559583,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-2559583,Cellular Senescence,Homo sapiens
+R-HSA-2559586,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-2559586,DNA Damage/Telomere Stress Induced Senescence,Homo sapiens
+R-HSA-3371556,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-3371556,Cellular response to heat stress,Homo sapiens
+R-HSA-3371571,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-3371571,HSF1-dependent transactivation,Homo sapiens
+R-HSA-381033,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-381033,ATF6 (ATF6-alpha) activates chaperones,Homo sapiens
+R-HSA-381042,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-381042,PERK regulates gene expression,Homo sapiens
+R-HSA-381070,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-381070,IRE1alpha activates chaperones,Homo sapiens
+R-HSA-381119,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-381119,Unfolded Protein Response (UPR),Homo sapiens
+R-HSA-5660526,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-5660526,Response to metal ions,Homo sapiens
+R-HSA-9707564,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-9707564,Cytoprotection by HMOX1,Homo sapiens
+R-HSA-9711097,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-9711097,Cellular response to starvation,Homo sapiens
+R-HSA-9711123,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-9711123,Cellular response to chemical stress,Homo sapiens
+R-HSA-9755511,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-9755511,KEAP1-NFE2L2 pathway,Homo sapiens
+R-HSA-9759194,R-HSA-8953897,R-HSA-8953897,Cellular responses to stimuli,Homo sapiens,R-HSA-9759194,Nuclear events mediated by NFE2L2,Homo sapiens
+R-HSA-1362409,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1362409,Mitochondrial iron-sulfur cluster biogenesis,Homo sapiens
+R-HSA-140179,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-140179,Amine Oxidase reactions,Homo sapiens
+R-HSA-1428517,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1428517,Aerobic respiration and respiratory electron transport,Homo sapiens
+R-HSA-1483206,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1483206,Glycerophospholipid biosynthesis,Homo sapiens
+R-HSA-1483249,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1483249,Inositol phosphate metabolism,Homo sapiens
+R-HSA-1483255,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1483255,PI Metabolism,Homo sapiens
+R-HSA-156580,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-156580,Phase II - Conjugation of compounds,Homo sapiens
+R-HSA-156584,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-156584,Cytosolic sulfonation of small molecules,Homo sapiens
+R-HSA-156588,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-156588,Glucuronidation,Homo sapiens
+R-HSA-156590,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-156590,Glutathione conjugation,Homo sapiens
+R-HSA-15869,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-15869,Metabolism of nucleotides,Homo sapiens
+R-HSA-159424,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-159424,Conjugation of carboxylic acids,Homo sapiens
+R-HSA-1614558,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1614558,Degradation of cysteine and homocysteine,Homo sapiens
+R-HSA-1614635,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1614635,Sulfur amino acid metabolism,Homo sapiens
+R-HSA-1630316,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1630316,Glycosaminoglycan metabolism,Homo sapiens
+R-HSA-163200,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",Homo sapiens
+R-HSA-163359,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-163359,Glucagon signaling in metabolic regulation,Homo sapiens
+R-HSA-163685,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-163685,Integration of energy metabolism,Homo sapiens
+R-HSA-1638074,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1638074,Keratan sulfate/keratin metabolism,Homo sapiens
+R-HSA-1638091,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,Homo sapiens
+R-HSA-1655829,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1655829,Regulation of cholesterol biosynthesis by SREBP (SREBF),Homo sapiens
+R-HSA-1660662,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1660662,Glycosphingolipid metabolism,Homo sapiens
+R-HSA-166187,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-166187,Mitochondrial Uncoupling,Homo sapiens
+R-HSA-1793185,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1793185,Chondroitin sulfate/dermatan sulfate metabolism,Homo sapiens
+R-HSA-189445,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-189445,Metabolism of porphyrins,Homo sapiens
+R-HSA-191273,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-191273,Cholesterol biosynthesis,Homo sapiens
+R-HSA-192105,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-192105,Synthesis of bile acids and bile salts,Homo sapiens
+R-HSA-194068,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-194068,Bile acid and bile salt metabolism,Homo sapiens
+R-HSA-196071,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-196071,Metabolism of steroid hormones,Homo sapiens
+R-HSA-196741,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-196741,"Cobalamin (Cbl, vitamin B12) transport and metabolism",Homo sapiens
+R-HSA-196807,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-196807,Nicotinate metabolism,Homo sapiens
+R-HSA-196849,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors,Homo sapiens
+R-HSA-199220,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-199220,Vitamin B5 (pantothenate) metabolism,Homo sapiens
+R-HSA-202131,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-202131,Metabolism of nitric oxide: NOS3 activation and regulation,Homo sapiens
+R-HSA-2046104,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-2046104,alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,Homo sapiens
+R-HSA-209776,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-209776,Metabolism of amine-derived hormones,Homo sapiens
+R-HSA-209968,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-209968,Thyroxine biosynthesis,Homo sapiens
+R-HSA-211859,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-211859,Biological oxidations,Homo sapiens
+R-HSA-211897,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-211897,Cytochrome P450 - arranged by substrate type,Homo sapiens
+R-HSA-211945,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-211945,Phase I - Functionalization of compounds,Homo sapiens
+R-HSA-211976,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-211976,Endogenous sterols,Homo sapiens
+R-HSA-211981,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-211981,Xenobiotics,Homo sapiens
+R-HSA-2142753,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-2142753,Arachidonic acid metabolism,Homo sapiens
+R-HSA-2142845,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-2142845,Hyaluronan metabolism,Homo sapiens
+R-HSA-2408522,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-2408522,Selenoamino acid metabolism,Homo sapiens
+R-HSA-351202,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-351202,Metabolism of polyamines,Homo sapiens
+R-HSA-389661,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-389661,Glyoxylate metabolism and glycine degradation,Homo sapiens
+R-HSA-390918,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-390918,Peroxisomal lipid metabolism,Homo sapiens
+R-HSA-400206,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-400206,Regulation of lipid metabolism by PPARalpha,Homo sapiens
+R-HSA-400451,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-400451,Free fatty acids regulate insulin secretion,Homo sapiens
+R-HSA-422356,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-422356,Regulation of insulin secretion,Homo sapiens
+R-HSA-428157,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-428157,Sphingolipid metabolism,Homo sapiens
+R-HSA-556833,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-556833,Metabolism of lipids,Homo sapiens
+R-HSA-5652084,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-5652084,Fructose metabolism,Homo sapiens
+R-HSA-611105,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-611105,Respiratory electron transport,Homo sapiens
+R-HSA-6806667,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-6806667,Metabolism of fat-soluble vitamins,Homo sapiens
+R-HSA-70171,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-70171,Glycolysis,Homo sapiens
+R-HSA-70268,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-70268,Pyruvate metabolism,Homo sapiens
+R-HSA-70326,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-70326,Glucose metabolism,Homo sapiens
+R-HSA-71291,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-71291,Metabolism of amino acids and derivatives,Homo sapiens
+R-HSA-71336,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-71336,Pentose phosphate pathway,Homo sapiens
+R-HSA-71387,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-71387,Metabolism of carbohydrates,Homo sapiens
+R-HSA-71403,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-71403,Citric acid cycle (TCA cycle),Homo sapiens
+R-HSA-74182,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-74182,Ketone body metabolism,Homo sapiens
+R-HSA-74259,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-74259,Purine catabolism,Homo sapiens
+R-HSA-75105,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-75105,Fatty acyl-CoA biosynthesis,Homo sapiens
+R-HSA-77286,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-77286,mitochondrial fatty acid beta-oxidation of saturated fatty acids,Homo sapiens
+R-HSA-77289,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-77289,Mitochondrial Fatty Acid Beta-Oxidation,Homo sapiens
+R-HSA-8848584,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8848584,Wax and plasmalogen biosynthesis,Homo sapiens
+R-HSA-8956319,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8956319,Nucleotide catabolism,Homo sapiens
+R-HSA-8956320,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8956320,Nucleotide biosynthesis,Homo sapiens
+R-HSA-8956321,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8956321,Nucleotide salvage,Homo sapiens
+R-HSA-8957322,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8957322,Metabolism of steroids,Homo sapiens
+R-HSA-8963691,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8963691,Phenylalanine and tyrosine metabolism,Homo sapiens
+R-HSA-8978868,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8978868,Fatty acid metabolism,Homo sapiens
+R-HSA-8978934,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8978934,Metabolism of cofactors,Homo sapiens
+R-HSA-8979227,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8979227,Triglyceride metabolism,Homo sapiens
+R-HSA-8982491,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-8982491,Glycogen metabolism,Homo sapiens
+R-HSA-9018677,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9018677,Biosynthesis of DHA-derived SPMs,Homo sapiens
+R-HSA-9018678,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9018678,Biosynthesis of specialized proresolving mediators (SPMs),Homo sapiens
+R-HSA-9018679,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9018679,Biosynthesis of EPA-derived SPMs,Homo sapiens
+R-HSA-9018682,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9018682,Biosynthesis of maresins,Homo sapiens
+R-HSA-9018683,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9018683,Biosynthesis of DPA-derived SPMs,Homo sapiens
+R-HSA-9025094,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9025094,Biosynthesis of DPAn-3 SPMs,Homo sapiens
+R-HSA-9026395,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9026395,Biosynthesis of DHA-derived sulfido conjugates,Homo sapiens
+R-HSA-9033658,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9033658,Blood group systems biosynthesis,Homo sapiens
+R-HSA-9861718,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-9861718,Regulation of pyruvate metabolism,Homo sapiens
+R-HSA-1475029,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-1475029,Reversible hydration of carbon dioxide,Homo sapiens
+R-HSA-2564830,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-2564830,Cytosolic iron-sulfur cluster assembly,Homo sapiens
+R-HSA-71737,R-HSA-1430728,R-HSA-1430728,Metabolism,Homo sapiens,R-HSA-71737,Pyrophosphate hydrolysis,Homo sapiens
+R-HSA-1474228,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-1474228,Degradation of the extracellular matrix,Homo sapiens
+R-HSA-1566948,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-1566948,Elastic fibre formation,Homo sapiens
+R-HSA-1650814,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-1650814,Collagen biosynthesis and modifying enzymes,Homo sapiens
+R-HSA-2022090,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,Homo sapiens
+R-HSA-3000171,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-3000171,Non-integrin membrane-ECM interactions,Homo sapiens
+R-HSA-1566977,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-1566977,Fibronectin matrix formation,Homo sapiens
+R-HSA-216083,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-216083,Integrin cell surface interactions,Homo sapiens
+R-HSA-3000157,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-3000157,Laminin interactions,Homo sapiens
+R-HSA-3000178,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-3000178,ECM proteoglycans,Homo sapiens
+R-HSA-8941237,R-HSA-1474244,R-HSA-1474244,Extracellular matrix organization,Homo sapiens,R-HSA-8941237,Invadopodia formation,Homo sapiens
+R-HSA-1480926,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-1480926,O2/CO2 exchange in erythrocytes,Homo sapiens
+R-HSA-2672351,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-2672351,Stimuli-sensing channels,Homo sapiens
+R-HSA-382556,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-382556,ABC-family proteins mediated transport,Homo sapiens
+R-HSA-425366,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-425366,"Transport of bile salts and organic acids, metal ions and amine compounds",Homo sapiens
+R-HSA-425393,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-425393,Transport of inorganic cations/anions and amino acids/oligopeptides,Homo sapiens
+R-HSA-425397,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-425397,"Transport of vitamins, nucleosides, and related molecules",Homo sapiens
+R-HSA-425407,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-425407,SLC-mediated transmembrane transport,Homo sapiens
+R-HSA-427652,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-427652,Sodium-coupled phosphate cotransporters,Homo sapiens
+R-HSA-435354,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-435354,Zinc transporters,Homo sapiens
+R-HSA-445717,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-445717,Aquaporin-mediated transport,Homo sapiens
+R-HSA-549132,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-549132,Organic cation/anion/zwitterion transport,Homo sapiens
+R-HSA-8949215,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-8949215,Mitochondrial calcium ion transport,Homo sapiens
+R-HSA-8963898,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-8963898,Plasma lipoprotein assembly,Homo sapiens
+R-HSA-8963899,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-8963899,Plasma lipoprotein remodeling,Homo sapiens
+R-HSA-8964043,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-8964043,Plasma lipoprotein clearance,Homo sapiens
+R-HSA-917937,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-917937,Iron uptake and transport,Homo sapiens
+R-HSA-983712,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-983712,Ion channel transport,Homo sapiens
+R-HSA-5223345,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-5223345,Miscellaneous transport and binding events,Homo sapiens
+R-HSA-8981607,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-8981607,Intracellular oxygen transport,Homo sapiens
+R-HSA-9845576,R-HSA-382551,R-HSA-382551,Transport of small molecules,Homo sapiens,R-HSA-9845576,Glycosphingolipid transport,Homo sapiens
+R-HSA-156842,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-156842,Eukaryotic Translation Elongation,Homo sapiens
+R-HSA-159854,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-159854,"Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",Homo sapiens
+R-HSA-163125,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-163125,Post-translational modification: synthesis of GPI-anchored proteins,Homo sapiens
+R-HSA-163841,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-163841,"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",Homo sapiens
+R-HSA-199977,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-199977,ER to Golgi Anterograde Transport,Homo sapiens
+R-HSA-199977,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-199977,ER to Golgi Anterograde Transport,Homo sapiens
+R-HSA-209952,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-209952,Peptide hormone biosynthesis,Homo sapiens
+R-HSA-2980736,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-2980736,Peptide hormone metabolism,Homo sapiens
+R-HSA-3108232,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-3108232,SUMO E3 ligases SUMOylate target proteins,Homo sapiens
+R-HSA-3215018,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-3215018,Processing and activation of SUMO,Homo sapiens
+R-HSA-379724,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-379724,tRNA Aminoacylation,Homo sapiens
+R-HSA-389958,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-389958,Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding,Homo sapiens
+R-HSA-390466,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-390466,Chaperonin-mediated protein folding,Homo sapiens
+R-HSA-391251,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-391251,Protein folding,Homo sapiens
+R-HSA-400508,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-400508,"Incretin synthesis, secretion, and inactivation",Homo sapiens
+R-HSA-446219,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-446219,Synthesis of substrates in N-glycan biosythesis,Homo sapiens
+R-HSA-5173105,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-5173105,O-linked glycosylation,Homo sapiens
+R-HSA-5368287,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-5368287,Mitochondrial translation,Homo sapiens
+R-HSA-5688426,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-5688426,Deubiquitination,Homo sapiens
+R-HSA-597592,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-597592,Post-translational protein modification,Homo sapiens
+R-HSA-72613,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-72613,Eukaryotic Translation Initiation,Homo sapiens
+R-HSA-72662,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-72662,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",Homo sapiens
+R-HSA-72737,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-72737,Cap-dependent Translation Initiation,Homo sapiens
+R-HSA-72766,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-72766,Translation,Homo sapiens
+R-HSA-8852135,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-8852135,Protein ubiquitination,Homo sapiens
+R-HSA-901042,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-901042,Calnexin/calreticulin cycle,Homo sapiens
+R-HSA-913709,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-913709,O-linked glycosylation of mucins,Homo sapiens
+R-HSA-964739,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-964739,N-glycan trimming and elongation in the cis-Golgi,Homo sapiens
+R-HSA-975576,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-975576,N-glycan antennae elongation in the medial/trans-Golgi,Homo sapiens
+R-HSA-381426,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),Homo sapiens
+R-HSA-5676934,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-5676934,Protein repair,Homo sapiens
+R-HSA-5683826,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-5683826,Surfactant metabolism,Homo sapiens
+R-HSA-977225,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-977225,Amyloid fiber formation,Homo sapiens
+R-HSA-9837999,R-HSA-392499,R-HSA-392499,Metabolism of proteins,Homo sapiens,R-HSA-9837999,Mitochondrial protein degradation,Homo sapiens
+R-HSA-157858,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-157858,Gap junction trafficking and regulation,Homo sapiens
+R-HSA-190861,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-190861,Gap junction assembly,Homo sapiens
+R-HSA-190872,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-190872,Transport of connexons to the plasma membrane,Homo sapiens
+R-HSA-190873,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-190873,Gap junction degradation,Homo sapiens
+R-HSA-199991,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-199991,Membrane Trafficking,Homo sapiens
+R-HSA-199992,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-199992,trans-Golgi Network Vesicle Budding,Homo sapiens
+R-HSA-2173782,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-2173782,Binding and Uptake of Ligands by Scavenger Receptors,Homo sapiens
+R-HSA-6811442,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-6811442,Intra-Golgi and retrograde Golgi-to-ER traffic,Homo sapiens
+R-HSA-8856688,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-8856688,Golgi-to-ER retrograde transport,Homo sapiens
+R-HSA-8856828,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-8856828,Clathrin-mediated endocytosis,Homo sapiens
+R-HSA-9007101,R-HSA-5653656,R-HSA-5653656,Vesicle-mediated transport,Homo sapiens,R-HSA-9007101,Rab regulation of trafficking,Homo sapiens
+R-HSA-1592230,R-HSA-1852241,R-HSA-1852241,Organelle biogenesis and maintenance,Homo sapiens,R-HSA-1592230,Mitochondrial biogenesis,Homo sapiens
+R-HSA-5617833,R-HSA-1852241,R-HSA-1852241,Organelle biogenesis and maintenance,Homo sapiens,R-HSA-5617833,Cilium Assembly,Homo sapiens
+R-HSA-5620920,R-HSA-1852241,R-HSA-1852241,Organelle biogenesis and maintenance,Homo sapiens,R-HSA-5620920,Cargo trafficking to the periciliary membrane,Homo sapiens
+R-HSA-159234,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-159234,Transport of Mature mRNAs Derived from Intronless Transcripts,Homo sapiens
+R-HSA-194441,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-194441,Metabolism of non-coding RNA,Homo sapiens
+R-HSA-429914,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-429914,Deadenylation-dependent mRNA decay,Homo sapiens
+R-HSA-450531,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-450531,Regulation of mRNA stability by proteins that bind AU-rich elements,Homo sapiens
+R-HSA-6782315,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-6782315,tRNA modification in the nucleus and cytosol,Homo sapiens
+R-HSA-72172,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-72172,mRNA Splicing,Homo sapiens
+R-HSA-72200,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-72200,mRNA Editing: C to U Conversion,Homo sapiens
+R-HSA-72202,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-72202,Transport of Mature Transcript to Cytoplasm,Homo sapiens
+R-HSA-72203,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA,Homo sapiens
+R-HSA-72306,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-72306,tRNA processing,Homo sapiens
+R-HSA-75064,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-75064,mRNA Editing: A to I Conversion,Homo sapiens
+R-HSA-75067,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-75067,Processing of Capped Intronless Pre-mRNA,Homo sapiens
+R-HSA-8868766,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-8868766,rRNA processing in the mitochondrion,Homo sapiens
+R-HSA-8868773,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-8868773,rRNA processing in the nucleus and cytosol,Homo sapiens
+R-HSA-927802,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-927802,Nonsense-Mediated Decay (NMD),Homo sapiens
+R-HSA-9836573,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-9836573,Mitochondrial RNA degradation,Homo sapiens
+R-HSA-428359,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-428359,Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,Homo sapiens
+R-HSA-72086,R-HSA-8953854,R-HSA-8953854,Metabolism of RNA,Homo sapiens,R-HSA-72086,mRNA Capping,Homo sapiens
+R-HSA-211000,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-211000,Gene Silencing by RNA,Homo sapiens
+R-HSA-212165,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-212165,Epigenetic regulation of gene expression,Homo sapiens
+R-HSA-212436,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-212436,Generic Transcription Pathway,Homo sapiens
+R-HSA-3700989,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-3700989,Transcriptional Regulation by TP53,Homo sapiens
+R-HSA-5250913,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-5250913,Positive epigenetic regulation of rRNA expression,Homo sapiens
+R-HSA-5250941,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-5250941,Negative epigenetic regulation of rRNA expression,Homo sapiens
+R-HSA-5633007,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-5633007,Regulation of TP53 Activity,Homo sapiens
+R-HSA-5633008,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-5633008,TP53 Regulates Transcription of Cell Death Genes,Homo sapiens
+R-HSA-6791312,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-6791312,TP53 Regulates Transcription of Cell Cycle Genes,Homo sapiens
+R-HSA-6804758,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-6804758,Regulation of TP53 Activity through Acetylation,Homo sapiens
+R-HSA-6806003,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-6806003,Regulation of TP53 Expression and Degradation,Homo sapiens
+R-HSA-73854,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-73854,RNA Polymerase I Promoter Clearance,Homo sapiens
+R-HSA-73857,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-73857,RNA Polymerase II Transcription,Homo sapiens
+R-HSA-73864,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-73864,RNA Polymerase I Transcription,Homo sapiens
+R-HSA-74158,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-74158,RNA Polymerase III Transcription,Homo sapiens
+R-HSA-75944,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-75944,Transcription from mitochondrial promoters,Homo sapiens
+R-HSA-75955,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-75955,RNA Polymerase II Transcription Elongation,Homo sapiens
+R-HSA-76042,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-76042,RNA Polymerase II Transcription Initiation And Promoter Clearance,Homo sapiens
+R-HSA-76046,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-76046,RNA Polymerase III Transcription Initiation,Homo sapiens
+R-HSA-8864260,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-8864260,Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,Homo sapiens
+R-HSA-8878159,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-8878159,Transcriptional regulation by RUNX3,Homo sapiens
+R-HSA-8878166,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-8878166,Transcriptional regulation by RUNX2,Homo sapiens
+R-HSA-8878171,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-8878171,Transcriptional regulation by RUNX1,Homo sapiens
+R-HSA-8941326,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-8941326,RUNX2 regulates bone development,Homo sapiens
+R-HSA-8986944,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-8986944,Transcriptional Regulation by MECP2,Homo sapiens
+R-HSA-9614085,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-9614085,FOXO-mediated transcription,Homo sapiens
+R-HSA-9634815,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-9634815,Transcriptional Regulation by NPAS4,Homo sapiens
+R-HSA-9768759,R-HSA-74160,R-HSA-74160,Gene expression (Transcription),Homo sapiens,R-HSA-9768759,Regulation of NPAS4 gene expression,Homo sapiens
+R-HSA-2161522,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-2161522,Abacavir ADME,Homo sapiens
+R-HSA-9748787,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-9748787,Azathioprine ADME,Homo sapiens
+R-HSA-9749641,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-9749641,Aspirin ADME,Homo sapiens
+R-HSA-9753281,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-9753281,Paracetamol ADME,Homo sapiens
+R-HSA-9754706,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-9754706,Atorvastatin ADME,Homo sapiens
+R-HSA-9755088,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-9755088,Ribavirin ADME,Homo sapiens
+R-HSA-9757110,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-9757110,Prednisone ADME,Homo sapiens
+R-HSA-9793528,R-HSA-9748784,R-HSA-9748784,Drug ADME,Homo sapiens,R-HSA-9793528,Ciprofloxacin ADME,Homo sapiens
+R-HSA-2187338,R-HSA-9709957,R-HSA-9709957,Sensory Perception,Homo sapiens,R-HSA-2187338,Visual phototransduction,Homo sapiens
+R-HSA-2453902,R-HSA-9709957,R-HSA-9709957,Sensory Perception,Homo sapiens,R-HSA-2453902,The canonical retinoid cycle in rods (twilight vision),Homo sapiens
+R-HSA-2514856,R-HSA-9709957,R-HSA-9709957,Sensory Perception,Homo sapiens,R-HSA-2514856,The phototransduction cascade,Homo sapiens
+R-HSA-381753,R-HSA-9709957,R-HSA-9709957,Sensory Perception,Homo sapiens,R-HSA-381753,Olfactory Signaling Pathway,Homo sapiens
+R-HSA-9659379,R-HSA-9709957,R-HSA-9709957,Sensory Perception,Homo sapiens,R-HSA-9659379,Sensory processing of sound,Homo sapiens
+R-HSA-9662361,R-HSA-9709957,R-HSA-9709957,Sensory Perception,Homo sapiens,R-HSA-9662361,Sensory processing of sound by outer hair cells of the cochlea,Homo sapiens
+R-HSA-9717189,R-HSA-9709957,R-HSA-9709957,Sensory Perception,Homo sapiens,R-HSA-9717189,Sensory perception of taste,Homo sapiens
+R-HSA-3247509,R-HSA-4839726,R-HSA-4839726,Chromatin organization,Homo sapiens,R-HSA-3247509,Chromatin modifying enzymes,Homo sapiens
+R-HSA-418990,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-418990,Adherens junctions interactions,Homo sapiens
+R-HSA-421270,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-421270,Cell-cell junction organization,Homo sapiens
+R-HSA-446353,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-446353,Cell-extracellular matrix interactions,Homo sapiens
+R-HSA-446728,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-446728,Cell junction organization,Homo sapiens
+R-HSA-9759475,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-9759475,Regulation of CDH11 Expression and Function,Homo sapiens
+R-HSA-9762292,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-9762292,Regulation of CDH11 function,Homo sapiens
+R-HSA-9764260,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-9764260,Regulation of Expression and Function of Type II Classical Cadherins,Homo sapiens
+R-HSA-373753,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-373753,Nephrin family interactions,Homo sapiens
+R-HSA-391160,R-HSA-1500931,R-HSA-1500931,Cell-Cell communication,Homo sapiens,R-HSA-391160,Signal regulatory protein family interactions,Homo sapiens
+R-HSA-5205647,R-HSA-9612973,R-HSA-9612973,Autophagy,Homo sapiens,R-HSA-5205647,Mitophagy,Homo sapiens
+R-HSA-9663891,R-HSA-9612973,R-HSA-9612973,Autophagy,Homo sapiens,R-HSA-9663891,Selective autophagy,Homo sapiens
+R-HSA-9613829,R-HSA-9612973,R-HSA-9612973,Autophagy,Homo sapiens,R-HSA-9613829,Chaperone Mediated Autophagy,Homo sapiens
+R-HSA-9615710,R-HSA-9612973,R-HSA-9612973,Autophagy,Homo sapiens,R-HSA-9615710,Late endosomal microautophagy,Homo sapiens
+R-HSA-5576891,R-HSA-397014,R-HSA-397014,Muscle contraction,Homo sapiens,R-HSA-5576891,Cardiac conduction,Homo sapiens
+R-HSA-390522,R-HSA-397014,R-HSA-397014,Muscle contraction,Homo sapiens,R-HSA-390522,Striated Muscle Contraction,Homo sapiens
+R-HSA-445355,R-HSA-397014,R-HSA-397014,Muscle contraction,Homo sapiens,R-HSA-445355,Smooth Muscle Contraction,Homo sapiens
+R-HSA-68867,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-68867,Assembly of the pre-replicative complex,Homo sapiens
+R-HSA-69002,R-HSA-69306,R-HSA-69306,DNA Replication,Homo sapiens,R-HSA-69002,DNA Replication Pre-Initiation,Homo sapiens
+R-HSA-8935690,R-HSA-8963743,R-HSA-8963743,Digestion and absorption,Homo sapiens,R-HSA-8935690,Digestion,Homo sapiens
+R-HSA-8963676,R-HSA-8963743,R-HSA-8963743,Digestion and absorption,Homo sapiens,R-HSA-8963676,Intestinal absorption,Homo sapiens
+R-HSA-9033241,R-HSA-9609507,R-HSA-9609507,Protein localization,Homo sapiens,R-HSA-9033241,Peroxisomal protein import,Homo sapiens
+R-HSA-1268020,R-HSA-9609507,R-HSA-9609507,Protein localization,Homo sapiens,R-HSA-1268020,Mitochondrial protein import,Homo sapiens
+R-HSA-9603798,R-HSA-9609507,R-HSA-9609507,Protein localization,Homo sapiens,R-HSA-9603798,Class I peroxisomal membrane protein import,Homo sapiens
+R-HSA-9609523,R-HSA-9609507,R-HSA-9609507,Protein localization,Homo sapiens,R-HSA-9609523,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,Homo sapiens
+R-HSA-1368071,R-HSA-400253,R-HSA-400253,Circadian Clock,Homo sapiens,R-HSA-1368071,NR1D1 (REV-ERBA) represses gene expression,Homo sapiens
+R-HSA-1368082,R-HSA-400253,R-HSA-400253,Circadian Clock,Homo sapiens,R-HSA-1368082,RORA activates gene expression,Homo sapiens
+R-HSA-1368108,R-HSA-400253,R-HSA-400253,Circadian Clock,Homo sapiens,R-HSA-1368108,"BMAL1:CLOCK,NPAS2 activates circadian gene expression",Homo sapiens
