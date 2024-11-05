@@ -1,0 +1,8 @@
+
+data/processed/
+data/processed/**
+data/processed/*
+
+results/
+results/**
+results/*
