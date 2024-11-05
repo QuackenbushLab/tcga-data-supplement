@@ -68,4 +68,9 @@ DRAGON and PANDA networks.
 You can either download the `batch-coad-subtype-20240510` folder, or run the workflow again to generate all the data. 
 
 
+## Raw data for 10 common cancers
+
+[How to download data guide](https://github.com/QuackenbushLab/tcga-data-supplement/data/manifests/manifests.md)
+
+
 
