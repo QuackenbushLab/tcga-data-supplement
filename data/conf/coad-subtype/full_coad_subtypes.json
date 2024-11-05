@@ -1,0 +1,128 @@
+{ "tcga_coad_cms1": {
+  "expression_recount3": {
+        "project" : "COAD",
+        "project_home" : "data_sources/tcga",
+        "organism" : "human",
+        "annotation" : "gencode_v26",
+        "type" : "gene",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS1.txt"
+      },
+"mutation_tcgabiolinks": {
+        "project" : "TCGA-COAD",
+        "data_category" : "Simple Nucleotide Variation",
+        "data_type" : "Masked Somatic Mutation",
+        "download_dir" : "gdc_tcga_mutation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS1.txt"
+      },
+ "cnv_tcgabiolinks":{
+                "project" : "TCGA-COAD",
+                "workflow_type" : "ASCAT3",
+                "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS1.txt"
+              },
+"clinical_tcgabiolinks": {
+        "project" : "TCGA-COAD",
+        "data_category" : "Clinical",
+        "data_type" : "Clinical Supplement",
+        "data_format" : "BCR Biotab"
+        },
+"methylation_gdc": {
+        "project" : "TCGA-COAD",
+        "gdc_type" : "methylation_beta_value",
+        "gdc_platform" : "illumina human methylation 450",
+        "download_dir" : "gdc_tcga_methylation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS1.txt"
+      }
+},
+"tcga_coad_cms2": {
+  "expression_recount3": {
+        "project" : "COAD",
+        "project_home" : "data_sources/tcga",
+        "organism" : "human",
+        "annotation" : "gencode_v26",
+        "type" : "gene",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS2.txt"
+      },
+"mutation_tcgabiolinks": {
+        "project" : "TCGA-COAD",
+        "data_category" : "Simple Nucleotide Variation",
+        "data_type" : "Masked Somatic Mutation",
+        "download_dir" : "gdc_tcga_mutation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS2.txt"
+      },
+ "cnv_tcgabiolinks":{
+                "project" : "TCGA-COAD",
+                "workflow_type" : "ASCAT3",
+                "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS2.txt"
+              },
+"methylation_gdc": {
+        "project" : "TCGA-COAD",
+        "gdc_type" : "methylation_beta_value",
+        "gdc_platform" : "illumina human methylation 450",
+        "download_dir" : "gdc_tcga_methylation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS2.txt"
+      }
+},
+"tcga_coad_cms3": {
+  "expression_recount3": {
+        "project" : "COAD",
+        "project_home" : "data_sources/tcga",
+        "organism" : "human",
+        "annotation" : "gencode_v26",
+        "type" : "gene",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS3.txt"
+      },
+"mutation_tcgabiolinks": {
+        "project" : "TCGA-COAD",
+        "data_category" : "Simple Nucleotide Variation",
+        "data_type" : "Masked Somatic Mutation",
+        "download_dir" : "gdc_tcga_mutation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS3.txt"
+      },
+ "cnv_tcgabiolinks":{
+                "project" : "TCGA-COAD",
+                "workflow_type" : "ASCAT3",
+                "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS3.txt"
+              },
+"methylation_gdc": {
+        "project" : "TCGA-COAD",
+        "gdc_type" : "methylation_beta_value",
+        "gdc_platform" : "illumina human methylation 450",
+        "download_dir" : "gdc_tcga_methylation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS3.txt"
+      }
+},
+"tcga_coad_cms4": {
+  "expression_recount3": {
+        "project" : "COAD",
+        "project_home" : "data_sources/tcga",
+        "organism" : "human",
+        "annotation" : "gencode_v26",
+        "type" : "gene",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS4.txt"
+      },
+"mutation_tcgabiolinks": {
+        "project" : "TCGA-COAD",
+        "data_category" : "Simple Nucleotide Variation",
+        "data_type" : "Masked Somatic Mutation",
+        "download_dir" : "gdc_tcga_mutation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS4.txt"
+      },
+ "cnv_tcgabiolinks":{
+                "project" : "TCGA-COAD",
+                "workflow_type" : "ASCAT3",
+                "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS4.txt"
+              },
+"methylation_gdc": {
+        "project" : "TCGA-COAD",
+        "gdc_type" : "methylation_beta_value",
+        "gdc_platform" : "illumina human methylation 450",
+        "download_dir" : "gdc_tcga_methylation",
+        "samples" : "/home/ubuntu/tcga-coad-subtype/coad_samples_CMS4.txt"
+      }
+}
+}
+
+
+
+
+
