@@ -2,15 +2,19 @@
 
 
 In this repo we host the code to generate the data and figures for the paper
-"Reproducible processing of TCGA regulatory networks". 
+["Reproducible processing of TCGA regulatory networks"](https://www.biorxiv.org/content/10.1101/2024.11.05.622163v1). 
 
-We also add exemplary configurations files and FAQs.
+All the data is generated with the [tcga-data-nf](https://github.com/QuackenbushLab/tcga-data-nf) workflow. This folder holds sample files and analyses that can be
+run thanks to the pipeline. 
+
+## Content of the repo
+
 
 ```
 .
 ├── LICENSE
 ├── README.md
-├── config
+├── config # sample configuration files
 ├── data
 │   ├── conf
 │   │   └── coad-subtype/ # configuration files for the COAD subtype application in the paper
@@ -86,12 +90,14 @@ url = {https://doi.org/10.7910/DVN/MCSSYJ}
 }
 ```
 
-## Data and configuration files for 12 common cancers
+## Examples: Data and configuration files for 12 common cancers
 
-Data on AWS: 
-[How to download data guide](https://github.com/QuackenbushLab/tcga-data-supplement/data/manifests/manifests.md)
+Data on AWS:
+[tcga-data-nf-procumputed](https://us-east-2.console.aws.amazon.com/s3/buckets/tcga-data-nf-precomputed?region=us-east-2&bucketType=general&tab=objects).
 
-## Examples: configuration files
+In order to visualize and download this data, you need to have an active AWS account (a free tier one should suffice). 
+For any additional help, please contact vfanfani@hsph.harvard.edu
+
 
 We'll keep an updated list of exemplary configuration files inside the `config` folder.
 
@@ -163,3 +169,7 @@ We have used the prepared data with:
 - normalization: logcpm
 - gene filters: mintpm1, fracsamples01
 - tissues: tissueall
+
+## Authors
+
+- Viola Fanfani, vfanfani@hsph.harvard.edu
