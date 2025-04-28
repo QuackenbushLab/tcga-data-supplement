@@ -1,0 +1,89 @@
+{  "methylation_gdc":{
+    "tcga_brca":{
+          "project" : "TCGA-BRCA",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_coad":{
+          "project" : "TCGA-COAD",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_dlbc":{
+          "project" : "TCGA-DLBC",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_kirc":{
+          "project" : "TCGA-KIRC",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_laml":{
+          "project" : "TCGA-LAML",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_lihc":{
+          "project" : "TCGA-LIHC",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_prad":{
+          "project" : "TCGA-PRAD",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_paad":{
+          "project" : "TCGA-PAAD",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_skcm":{
+          "project" : "TCGA-SKCM",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_stad":{
+          "project" : "TCGA-STAD",
+          "gdc_type" : "methylation_beta_value",
+          "gdc_platform" : "illumina human methylation 450",
+          "download_dir" : "gdc_tcga_methylation",
+          "samples" : "NA"
+        },
+    "tcga_luad":{
+            "project" : "TCGA-LUAD",
+            "gdc_type" : "methylation_beta_value",
+            "gdc_platform" : "illumina human methylation 450",
+            "download_dir" : "gdc_tcga_methylation",
+            "samples" : "NA"
+          },
+    "tcga_lusc":{
+                "project" : "TCGA-LUSC",
+                "gdc_type" : "methylation_beta_value",
+                "gdc_platform" : "illumina human methylation 450",
+                "download_dir" : "gdc_tcga_methylation",
+                "samples" : "NA"
+              }
+    }
+}
+
+
