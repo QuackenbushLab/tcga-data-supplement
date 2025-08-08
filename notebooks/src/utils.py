@@ -5,6 +5,20 @@ import networkx as nx
 import pandas as pd
 import numpy as np
 
+def read_gmt(gmt_fn):
+    """Read a gmt file and return a dictionary with pathway names as keys and lists of genes as values"""
+    with open(gmt_fn, 'r') as f:
+        lines = f.readlines()
+    genes = {}
+    for line in lines:
+        parts = line.strip().split('\t')
+        path = parts[0]
+        genes[path] = {}
+        genes[path]['genes'] = parts[2:]
+        genes[path]['description'] = parts[1]
+        
+    return(genes)
+
 def get_gencode_maps(gencode_fn = "../data/external/gen_v26_mapping.csv"):
     """Get mapping from ENSG to gene symbol and vice versa
     """
@@ -134,3 +148,64 @@ def draw_both_graphs(G, fig_name):
     
     return(f)
 
+
+import pandas as pd
+
+from scipy.stats import hypergeom
+from statsmodels.stats.multitest import multipletests
+import sys
+
+def overrepresentation_analysis(pathways_genes, external_genes, background_genes, correction = 'fdr_bh', nmin = 5, nmax = 5000):
+    """ORA with hypergeometric test
+
+    Args:
+        pathways_genes (_type_): pathways dictionary
+        external_genes (_type_): genes of interest to be tested
+        background_genes (_type_): background (all possible genes)
+        correction (str, optional): _description_. Defaults to 'fdr_bh'.
+        nmin (int, optional): Smallest pathway to be tested. Defaults to 5.
+        nmax (int, optional): Largest Pathway to be tested. Defaults to 5000.
+
+    Returns:
+        pandas.DataFrame: DataFrame containing the results of the overrepresentation analysis
+    """
+    print('Testing:')
+    # Get all genes in the pathway dataset
+    all_path_genes = set()
+    for i, vals in pathways_genes.items():
+        all_path_genes = all_path_genes.union(set(vals))
+
+    if len(set(external_genes).intersection(set(background_genes))) != len(set(external_genes)):
+        print('Warning: external genes are not a subset of background genes')
+
+    results = []
+    for pathway, pathway_genes in pathways_genes.items():
+        pathway_genes_set = set(pathway_genes).intersection(background_genes)
+        if len(pathway_genes_set)<nmin or len(pathway_genes_set)>nmax:
+            print('WARNING: skipping %s, %d genes' %(pathway, len(pathway_genes)))
+        else:
+            intersection = pathway_genes_set.intersection(external_genes)
+            M = len(pathway_genes_set)  # Total number of genes in the pathway
+            n = len(external_genes)  # Total number of genes in the external list
+            N = len(background_genes)  # Total number of genes in the background set
+
+            # Perform hypergeometric test
+            if M==0:
+                odds_ratio = 0
+                p_val = 1
+            else:
+                odds_ratio = (len(intersection) * N) / (n * M)
+                p_val = hypergeom.sf(len(intersection)-1, N, M, n)
+                
+            results.append({'Pathway': pathway, 'OR': odds_ratio, 'p-value': p_val, 'intersection': len(intersection), 'n_genes': n, 'n_pathway': M, 'N': N,'genes':list(intersection)})
+            
+            
+
+    results = pd.DataFrame(results)
+    print('Tested %d pathways' %results.shape[0])
+
+    # Calculate FDR using Benjamini-Hochberg procedure
+    reject, fdr_corrected_pvals, _, _ = multipletests(results['p-value'].values, method=correction)
+    results[correction] = fdr_corrected_pvals
+
+    return results
