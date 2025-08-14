@@ -1,22 +1,22 @@
-    ---
-    title: "Apply ALPACA to COAD subtype networks"
-    output: html_notebook
-    ---
+---
+title: "Apply ALPACA to COAD subtype networks"
+output: html_notebook
+---
 
-    We start by importing the relevant packages, including netzoor
+We start by importing the relevant packages, including netzoor
 
-    ```{r}
-    library(netZooR)
-    library(tidyverse)
+```{r}
+library(netZooR)
+library(tidyverse)
 
 # Change to your organism
 library(clusterProfiler)
 library(purrr)
 library(org.Hs.eg.db)  # Human gene annotation database
+library(RColorBrewer)
 ```
-Use the ALPACA algorithm to infer the network for each COAD subtype. 
-You can use the run_alpaca.r script to run ALPACA between two networks 
-and you have three outputs: the membership table, the alpaca object and the list of top genes.
+
+Use the ALPACA algorithm to infer the network for each COAD subtype. You can use the run_alpaca.r script to run ALPACA between two networks and you have three outputs: the membership table, the alpaca object and the list of top genes.
 
 Now we will read the membership table for the CMS2 and CMS4 subtypes.
 
@@ -26,6 +26,7 @@ outputDir <- "../results/alpaca-batch-coad-subtype-connnectivity-20250317/"
 ```
 
 We read the membership table for the CMS2 and CMS4 subtypes.
+
 ```{r}
 # Read back the membership table
 membership_cms2_cms4_tibble <- read_csv("../data/processed/alpaca-batch-coad-subtype-20240510/membership_csm2_csm4.csv")
@@ -33,6 +34,7 @@ membership_cms2_cms4_tibble
 ```
 
 And now we want to check the number of nodes in each module.
+
 ```{r}
 count_total <- membership_cms2_cms4_tibble %>%
   count(module, name = "node_count")
@@ -58,10 +60,7 @@ count_A_B
 
 ```
 
-```{r}
-library(RColorBrewer)
 
-```
 We also plot the Number of nodes in each module
 
 ```{r}
@@ -81,8 +80,7 @@ dplyr::select(module, count_tf, count_gene) %>%
   ggsave(file = paste(outputDir, 'cms2_cms4_nodes_per_cluster.pdf', sep = ""), width = 6, height = 4)
 ```
 
-Check the percentage of nodes in each module. 
-This shows how big compared to the total number of nodes in the network are the nodes in each module.\
+Check the percentage of nodes in each module. This shows how big compared to the total number of nodes in the network are the nodes in each module.\
 We also normalize for the number of tf and genes, such that TFs and genes are comparable.
 
 ```{r}
@@ -111,6 +109,7 @@ count_A_B %>%
 ```
 
 We also reformat the membership table to have the node name and the type in separate columns.
+
 ```{r}
 # Split node column in the node_name and the type split by "_"
 membership_cms2_cms4_tibble <- membership_cms2_cms4_tibble %>%
@@ -125,8 +124,6 @@ library(dplyr)
 library(stringr)
 
 ```
-
-
 
 ```{r}
 df_grouped_string <- membership_cms2_cms4_tibble %>%
@@ -200,7 +197,7 @@ perform_kegg_enrichment <- function(genes, module) {
   if (!is.null(ego)) {
     ego_df <- as.data.frame(ego)
     ego_df$module <- module  # Add module ID
-    return(ego_df)
+    return(c(ego_df))
   } else {
     print('No valid ENTREZ IDs found for module')
     return(NULL)
@@ -210,12 +207,7 @@ perform_kegg_enrichment <- function(genes, module) {
 
 ```
 
-```{r}
-if (!require("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
 
-BiocManager::install("ReactomePA")
-```
 ```{r}
 library(ReactomePA)
 # Function to perform enrichment analysis per module
@@ -244,7 +236,6 @@ perform_reactome_enrichment <- function(genes, module) {
 }
 ```
 
-
 ```{r}
 # Iterated over the list of genes in each module and perform pathway analysis and concatenate the results table
 
@@ -271,7 +262,6 @@ all_result_significant <- all_results %>%
   arrange(p.adjust)
 print(all_result_significant)
 ```
-
 
 ```{r, fig.width=10, fig.height=6}
 library(ggplot2)
@@ -316,8 +306,6 @@ ggsave(file = paste(outputDir, 'top10_gos_per_module.pdf', sep = ""), width = 18
 
 ### Reactome
 
-
-
 ```{r}
 # Iterated over the list of genes in each module and perform pathway analysis and concatenate the results table
 
@@ -344,7 +332,6 @@ all_reactome_result_significant <- reactome_results %>%
   arrange(p.adjust)
 print(all_reactome_result_significant)
 ```
-
 
 ```{r, fig.width=12, fig.height=6}
 library(ggplot2)
@@ -384,7 +371,6 @@ ggplot(top_results, aes(x = reorder(Description, -pvalue), y = -log10(pvalue), f
 ggsave(file = paste(outputDir, 'top10_reactomes_per_module.pdf', sep = ""), width = 30, height = 15, dpi = 300)
 ```
 
-
 ### KEGG
 
 ```{r}
@@ -401,9 +387,8 @@ all_kegg_results <- map_dfr(df_grouped_string$module, function(module) {
 
 # Print combined results
 print(all_kegg_results)
-all_kegg_results %>% write_tsv(file = paste(outputDir, 'cms2_cms4_pathway_kegg.tsv', sep = ""))
+all_kegg_results[0] %>% write_tsv(file = paste(outputDir, 'cms2_cms4_pathway_kegg.tsv', sep = ""))
 ```
-
 
 ```{r}
 all_kegg_result_significant <- all_kegg_results %>%
@@ -411,7 +396,6 @@ all_kegg_result_significant <- all_kegg_results %>%
   arrange(p.adjust)
 print(all_kegg_result_significant)
 ```
-
 
 ```{r, fig.width=12, fig.height=6}
 library(ggplot2)
@@ -486,7 +470,6 @@ ktemp_mat <- ktemp_wide %>%
 
 ```
 
-
 ```{r}
 library(viridis)
 
@@ -496,7 +479,6 @@ ktemp_mat <- ktemp_mat %>%
   mutate(across(everything(), as.numeric)) %>%
   as.matrix()
 ```
-
 
 ```{r}
 
@@ -528,7 +510,6 @@ pheatmap(
 )
 
 ```
-
 
 ```{r}
 
@@ -577,3 +558,4 @@ ggsave(
   dpi = 300
 )
 ```
+
