@@ -1,3 +1,6 @@
+data/external/
+data/external/**
+data/external/*
 
 data/processed/
 data/processed/**
@@ -6,3 +9,10 @@ data/processed/*
 results/
 results/**
 results/*
+
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+.Rhistory
+
